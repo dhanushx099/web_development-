@@ -1,0 +1,33 @@
+.logo{
+    height: 50px;
+    width: 150px;
+    margin-top: 4px;
+
+}
+.maindiv{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(25, 73, 25);
+}
+.subdiv{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.indi{
+    margin: 10px;
+    color: aliceblue;
+}
+.downdiv{
+    display: flex;
+    margin-top: 10px;
+}
+.imagee{
+    height: 200px;
+    width: 200px;
+    padding-top: 3px;
+}
+.newdiv{
+    align-items: center;
+    padding-left: 4px;
+}
